@@ -10,7 +10,7 @@ This project implements an AI-powered Identity and Access Management (IAM) agent
    - Windows: `venv\Scripts\activate`
    - Unix/MacOS: `source venv/bin/activate`
 4. Install dependencies: `pip install -r requirements.txt`
-5. Create a `.env` file with your configuration:
+5. Create a `.env` file with your configuration API integration and OPEN API KEY:
    ```
    API_BASE_URL=your_api_base_url
    API_KEY=your_api_key
